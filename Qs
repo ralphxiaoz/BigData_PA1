@@ -1,0 +1,1 @@
+map和reduce函数的输入/输出对不一样，如何选取数值类型？如InvertedIndexMapred.java中，map/reduce的类型是怎么确定的？为什么reduce的输入类型可以定成iterable?
